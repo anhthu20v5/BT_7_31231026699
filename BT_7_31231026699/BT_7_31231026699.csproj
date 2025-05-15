@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="SocialNetwork\.vs\SocialNetwork\v17\DocumentLayout.backup.json" />
+    <Content Include="SocialNetwork\.vs\SocialNetwork\v17\DocumentLayout.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="SocialNetwork\.vs\ProjectEvaluation\socialnetwork.metadata.v9.bin" />
+    <None Include="SocialNetwork\.vs\ProjectEvaluation\socialnetwork.projects.v9.bin" />
+    <None Include="SocialNetwork\.vs\ProjectEvaluation\socialnetwork.strings.v9.bin" />
+    <None Include="SocialNetwork\.vs\SocialNetwork\CopilotIndices\17.13.433.20974\CodeChunks.db" />
+    <None Include="SocialNetwork\.vs\SocialNetwork\CopilotIndices\17.13.433.20974\SemanticSymbols.db" />
+    <None Include="SocialNetwork\.vs\SocialNetwork\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="SocialNetwork\.vs\SocialNetwork\FileContentIndex\6c798ec0-4c45-4bde-8ce6-353f250e7bb0.vsidx" />
+    <None Include="SocialNetwork\.vs\SocialNetwork\v17\.futdcache.v2" />
+    <None Include="SocialNetwork\SocialNetwork.Client\SocialNetwork.Client.csproj" />
+    <None Include="SocialNetwork\SocialNetwork.Data\SocialNetwork.Data.csproj" />
+    <None Include="SocialNetwork\SocialNetwork.Models\SocialNetwork.Models.csproj" />
+    <None Include="SocialNetwork\SocialNetwork.sln" />
+    <None Include="StudentSystem\StudentSystem.Client\StudentSystem.Client.csproj" />
+    <None Include="StudentSystem\StudentSystem.Data\StudentSystem.Data.csproj" />
+    <None Include="StudentSystem\StudentSystem.Models\StudentSystem.Models.csproj" />
+    <None Include="StudentSystem\StudentSystem.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="SocialNetwork\SocialNetwork.Client\bin\Debug\net8.0\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Client\bin\Release\net8.0\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Client\obj\Debug\net8.0\refint\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Client\obj\Debug\net8.0\ref\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Client\obj\Release\net8.0\refint\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Client\obj\Release\net8.0\ref\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Data\bin\Debug\net8.0\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Data\obj\Debug\net8.0\refint\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Data\obj\Debug\net8.0\ref\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Models\bin\Debug\net8.0\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Models\bin\Release\net8.0\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Models\obj\Debug\net8.0\refint\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Models\obj\Debug\net8.0\ref\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Models\obj\Release\net8.0\refint\" />
+    <Folder Include="SocialNetwork\SocialNetwork.Models\obj\Release\net8.0\ref\" />
+    <Folder Include="StudentSystem\StudentSystem.Client\bin\Debug\net8.0\" />
+    <Folder Include="StudentSystem\StudentSystem.Client\bin\Release\net8.0\" />
+    <Folder Include="StudentSystem\StudentSystem.Client\obj\Debug\net8.0\refint\" />
+    <Folder Include="StudentSystem\StudentSystem.Client\obj\Debug\net8.0\ref\" />
+    <Folder Include="StudentSystem\StudentSystem.Client\obj\Release\net8.0\refint\" />
+    <Folder Include="StudentSystem\StudentSystem.Client\obj\Release\net8.0\ref\" />
+    <Folder Include="StudentSystem\StudentSystem.Data\bin\Debug\net8.0\" />
+    <Folder Include="StudentSystem\StudentSystem.Data\bin\Release\net8.0\" />
+    <Folder Include="StudentSystem\StudentSystem.Data\obj\Debug\net8.0\refint\" />
+    <Folder Include="StudentSystem\StudentSystem.Data\obj\Debug\net8.0\ref\" />
+    <Folder Include="StudentSystem\StudentSystem.Data\obj\Release\net8.0\refint\" />
+    <Folder Include="StudentSystem\StudentSystem.Data\obj\Release\net8.0\ref\" />
+    <Folder Include="StudentSystem\StudentSystem.Models\bin\Debug\net8.0\" />
+    <Folder Include="StudentSystem\StudentSystem.Models\bin\Release\net8.0\" />
+    <Folder Include="StudentSystem\StudentSystem.Models\obj\Debug\net8.0\refint\" />
+    <Folder Include="StudentSystem\StudentSystem.Models\obj\Debug\net8.0\ref\" />
+    <Folder Include="StudentSystem\StudentSystem.Models\obj\Release\net8.0\refint\" />
+    <Folder Include="StudentSystem\StudentSystem.Models\obj\Release\net8.0\ref\" />
+  </ItemGroup>
+
+</Project>
